@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on management system to my college<br>🌱 I’m currently learning how to live better<br>💬 Ask me about anything<br>⚡ Fun fact I don like papaya<br>
+🔭 I’m currently working on management system to my college<br>🌱 I’m currently learning how to live better<br>💬 Ask me about anything<br>⚡ Fun fact I don't like papaya<br>
 
 
 ## 🌐 Socials:
